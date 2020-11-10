@@ -1,0 +1,6 @@
+framework module Pods_WhereIsMyPizza_WhereIsMyPizzaUITests {
+  umbrella header "Pods-WhereIsMyPizza-WhereIsMyPizzaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WhereIsMyPizza {
+  umbrella header "Pods-WhereIsMyPizza-umbrella.h"
+
+  export *
+  module * { export * }
+}

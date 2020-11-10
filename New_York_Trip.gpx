@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0">
+	<name>Example gpx</name>
+	<wpt lat="40.730610" lon="-73.935242">
+		<ele>2372</ele>
+		<name>User</name>
+	</wpt>
+</gpx>
